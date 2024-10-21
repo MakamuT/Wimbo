@@ -5,8 +5,8 @@ export default function Home() {
     return (
     <router>
       <Routes>
-        <Route path="/" element></Route>
+        <Route path="/" element={<Library/>}></Route>
       </Routes>
     </router>;
     )
-}
+};
