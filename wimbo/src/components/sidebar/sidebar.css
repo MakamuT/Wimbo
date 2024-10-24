@@ -1,0 +1,14 @@
+.sidebar-container{
+    align-items: center;
+    background-color: #eca72c;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
+    width: 100px;
+}
+.pp{
+    border-radius: 30px;
+    height: 50px;
+    width: 50px;
+}

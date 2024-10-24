@@ -1,0 +1,17 @@
+a{
+    text-decoration: none;
+}
+.btn-body{
+    align-items: center;
+    border-radius: 20px;
+    color: #44355b;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60px;
+    width: 60px;
+}
+.btn-title{
+    font-weight: bold;
+    margin: 4px auto;
+}
